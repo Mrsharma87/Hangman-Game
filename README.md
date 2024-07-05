@@ -7,4 +7,4 @@ Simple hangman game in python. This is simple hangman game implemented in python
 
 ## Geri Bildirim
 
-If you have any feedback, please contact me at e.canbolatlnx@gmail.com
+If you have any feedback, please contact me at anujsha876@gmail.com
